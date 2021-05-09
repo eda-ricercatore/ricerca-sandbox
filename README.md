@@ -1,4 +1,4 @@
-# gulyas-scripts
+# ricerca-sandbox
 This is the script directory for my research, as part of my dottorato di ricerca.
 
 It contains scripts to test out ideas that I have read in research publications.
